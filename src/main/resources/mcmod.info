@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chatcopy",
+  "name": "ChatCopier",
+  "description": "ChatCopier, a mod with the version compatibility of 1.8.9, integrates a system, in which, players can copy sent messages.",
+  "version": "1.8.9",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mopmop2"],
+  "credits": "I like rice",
+  "logoFile": "assets/ChatCopier.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
